@@ -17,8 +17,6 @@ Praticar conceitos básicos de:
 - IDE: Eclipse
 
 ## 👨‍💻 Autor
-# Lucas
-
 **Lucas Silva**  
 🎓 Estudante de Sistemas de Informação  
 📍 Belo Horizonte, Brasil  
